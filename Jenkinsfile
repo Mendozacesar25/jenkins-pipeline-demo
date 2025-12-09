@@ -1,4 +1,4 @@
-// prueba video
+// prueba funcionamiento
 
 pipeline {
     agent any
